@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569298547 source:e:\gamepro\latihan1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1569298548 source:e:\kuliah\smstr 5\game programming\latihan1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
